@@ -1,5 +1,6 @@
 # Twitter-bot-follow-unfollow-other-users
 This repo is a part of a project on Twitter bot and game theory. If you find this code useful in your research, please consider citing:
+
 @InProceedings{chenGameSec2018,
 author="Chen, Jundong
 and Hossain, Md Shafaeat
